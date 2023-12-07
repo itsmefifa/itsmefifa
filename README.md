@@ -1,33 +1,38 @@
-# 👋 Hi, I’m @itsmefifa!
+# 👋 Hello, I'm Chanisara Kotrachai! (@itsmefifa)
 
-**Data Science | Data Analysis**
+## 🚀 Data Science | 💻 Data Analysis | 🧑‍💻 Software Engineering
 
-I'm a software engineer student with a keen interest in data science and analysis. Combining both research acumen and hands-on development experience, I excel at extracting insights from data and applying AI methodologies. Always on the lookout for intriguing data challenges, I thrive in collaborative settings that champion innovation.
+🌟 I am a dedicated software engineering student with a deep passion for data science and analysis. Specializing in extracting valuable insights from data and adept in applying AI methodologies, I am committed to solving complex, real-world problems.
 
-🌱 Currently learning at Faculty of Information and Communication Technology (ICT Mahidol)
+### 🎓 Education
+- 🌱 **Currently Learning**: Faculty of Information and Communication Technology (ICT Mahidol)
+- 🌏 **Location**: Thailand 🇹🇭
 
-## 🌐 Connect with me:
+### 📬 Contact Me
+- 📧 Email: [chanisara.kot@student.mahidol.ac.th](mailto:chanisara.kot@student.mahidol.ac.th)
+
+### 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=222)](https://www.linkedin.com/in/chanisara-kotrachai/)
 
-### 💼 Experience:
+### 💼 Professional Experience
 
-1. **Explainable Al supported Evaluation and Comparison on Credit Card Fraud Detection Models** - *National Central University · Internship*
-   - **Duration**: Jun 2023 - Jul 2023 · Taoyuan City, Taiwan · On-ste
-   - **Description**: In this project, I applied machine learning models for credit card fraud detection and used the SHapley Additive exPlanations (SHAP) method for model interpretability, highlighting the importance of precision and providing insights for future model development.
-   - 
-2. **Software Developer** - *CP Match · Internship*
-   - **Duration**: Jun 2022 - Jul 2022 · Bangkok, Thailand · On-site
-   - **Description**: During my internship at CP Match, I had the opportunity to immerse myself in front-end development, focusing on enhancing user experiences and integrating content management systems. My key contributions include:
-      - Collaborating with a cross-functional team, applying agile methodologies to iterate and deliver dynamic web applications.
-      - Spearheading the design and implementation of interactive web interfaces using React.js and JavaScript.
-      - Integrating and customizing CMS solutions to streamline content publishing processes and ensure cohesive branding.
-      - Harnessing the power of Node.js for backend support, ensuring seamless front-to-back interactions.
-      - Crafting responsive designs and optimizing page performance through best-practice CSS techniques.
+1. **Explainable AI Supported Evaluation and Comparison on Credit Card Fraud Detection Models**
+   - 🏢 *Internship at National Central University*
+   - ⏳ **Duration**: Jun 2023 - Jul 2023 · Taoyuan City, Taiwan · On-site
+   - 🌟 **Key Achievements**:
+     - Applied machine learning models for credit card fraud detection.
+     - Utilized SHAP method for model interpretability.
+     - Presented at the 2023 7th International Conference on Information Technology (InCIT).
 
-  
-## 📞 Contact
-Feel free to drop me an [email](mailto:chanisara.kot@student.mahidol.ac.th) for any collaborations, opportunities, or chats over coffee!
-
+2. **Software Developer**
+   - 🏢 *Internship at CP Match*
+   - ⏳ **Duration**: Jun 2022 - Jul 2022 · Bangkok, Thailand · On-site
+   - 💡 **Key Contributions**:
+     - Team collaboration and agile methodology application.
+     - Leading web interface design using React.js and JavaScript.
+     - CMS integration for streamlined content management.
+     - Backend support enhancement with Node.js.
+     - Web performance optimization with advanced CSS.
 ---
 
 🌟 Don't forget to star my repo if you found it interesting!
