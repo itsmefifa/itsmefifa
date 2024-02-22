@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Chanisara Kotrachai! (@itsmefifa)
 
-## 🚀 Data Science | 💻 Data Analysis | 🧑‍💻 Software Engineering
+## 🧑‍💻 Quality Assurance | 🚀 Business Analyst | 💻 Data Analysis
 
-🌟 I am a dedicated software engineering student with a deep passion for data science and analysis. Specializing in extracting valuable insights from data and adept in applying AI methodologies, I am committed to solving complex, real-world problems.
+🌟 As a software engineering student with SDLC expertise from a QA internship and various hands-on initiatives, I seek a Business Analyst and Quality Assurance role. My background in requirement analysis, testing strategies, and web application development positions me to effectively bridge technical and business domains. Eager to apply my skills to drive strategic business outcomes.
 
 ### 🎓 Education
 - 🌱 **Currently Learning**: Faculty of Information and Communication Technology (ICT Mahidol)
